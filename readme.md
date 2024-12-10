@@ -6,3 +6,9 @@
     3. Metrics
         1. metrics type -> JMX
         2. port -> 9997 ну или как вы указали в своей конфигурации
+
+ХЗ насколько это нужно:
+>https://habr.com/ru/articles/738874/
+
+UI:
+>http://localhost:8082
